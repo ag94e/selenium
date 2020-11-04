@@ -1,0 +1,5 @@
+# PyUnitReport
+pyunitreport==0.1.4
+
+# Selenium
+selenium==3.141.0
