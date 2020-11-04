@@ -11,11 +11,11 @@ Testing using Selenium on Google Chrome
  - Use a virtual environment and activate:
     - MacOS / Linux:
         ```python -m venv env```.
-        Activate:
-        ```source env/bin/activate```
+        - Activate:
+            ```source env/bin/activate```
     - Windows
         ```python -m venv env```.
-        Activate:
-        ```env\Scripts\activate```
+        - Activate:
+            ```env\Scripts\activate```
  - Install requirementes with:
     ```pip install -r requirements.txt```
